@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermissionApp</string>
+    <string name="camera_enabled">Hai attivato la tua camera!</string>
+    <string name="attention">Attenzione..</string>
+    <string name="should_grant">Dovresti concedere i permessi per accedere alla funzionalità specifica</string>
+    <string name="ok">OK</string>
+    <string name="no_thx">NO, GRAZIE</string>
+</resources>
